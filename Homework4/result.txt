@@ -1,0 +1,27 @@
+{'_id': ObjectId('61e31c868b1ea116ac13b5a2'),
+ 'date': '2022-01-15 21:15',
+ 'source': 'RT на русском',
+ 'title': 'Весной 2022 года в России планируют запустить новое мобильное '
+          'приложение «Госуслуги»',
+ 'url': 'https://yandex.ru/news/story/Vesnoj_2022_goda_vRossii_planiruyut_zapustit_novoe_mobilnoe_prilozhenie_Gosuslugi--b633b97abdeb2269c96de9204ad2b91d?lang=ru&rubric=computers&fan=1&stid=qgvjDD8rhNnSVCtsFQsm&t=1642273547&persistent_id=177150598'}
+{'_id': ObjectId('61e31c868b1ea116ac13b5a3'),
+ 'date': '2022-01-15 21:48',
+ 'source': 'Yakutsk.ru',
+ 'title': 'Версия игры God of War для ПК поступила в продажу',
+ 'url': 'https://yandex.ru/news/story/Versiya_igry_God_of_War_dlyaPK_postupila_vprodazhu--be45d5c833ebd777f2a13b644300a2fd?lang=ru&rubric=computers&fan=1&stid=iXH_Npj_XAwSwTw2lGWW&t=1642273547&persistent_id=177143551'}
+{'_id': ObjectId('61e31c868b1ea116ac13b5a4'),
+ 'date': '2022-01-15 19:34',
+ 'source': 'Astera',
+ 'title': 'Компания Nvidia приостановила производство видеокарт GeForce RTX '
+          '3090',
+ 'url': 'https://yandex.ru/news/story/Kompaniya_Nvidia_priostanovila_proizvodstvo_videokart_GeForce_RTX_3090--2bbb39556e9eccc203dec5d7dd4a62c7?lang=ru&rubric=computers&fan=1&stid=1FplZdvrKt90z7QsfoXw&t=1642273547&persistent_id=177087027'}
+{'_id': ObjectId('61e31c868b1ea116ac13b5a5'),
+ 'date': '2022-01-15 21:35',
+ 'source': 'Monavista Daily',
+ 'title': 'Из новых моделей iPhone убрали полезную функцию',
+ 'url': 'https://yandex.ru/news/story/Iznovykh_modelej_iPhone_ubrali_poleznuyu_funkciyu--bba5179158a92d2afdea6bc289785451?lang=ru&rubric=computers&fan=1&stid=NZZTZCJO&t=1642273547&persistent_id=177156870'}
+{'_id': ObjectId('61e31c868b1ea116ac13b5a6'),
+ 'date': '2022-01-15 19:17',
+ 'source': 'iXBT.com',
+ 'title': 'Процессоры Intel Core 13 получат до 68 МБ кэш-памяти',
+ 'url': 'https://yandex.ru/news/story/Processory_Intel_Core_13_poluchat_do68MB_kehsh-pamyati--78234802a936d96e4fe4d44eefc46c1c?lang=ru&rubric=computers&fan=1&stid=9m7XU92gfFM8O73fyoce&t=1642273547&persistent_id=177049035'}
