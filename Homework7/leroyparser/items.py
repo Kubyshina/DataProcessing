@@ -14,4 +14,3 @@ class LeroyparserItem(scrapy.Item):
     photos = scrapy.Field()
     url = scrapy.Field(output_processor=TakeFirst())
     price = scrapy.Field(output_processor=TakeFirst())
-    price = scrapy.Field(output_processor=TakeFirst())
